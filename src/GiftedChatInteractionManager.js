@@ -1,4 +1,4 @@
-import { InteractionManager } from 'react-native';
+import { InteractionManager } from 'react-native-web';
 
 export default {
   ...InteractionManager,

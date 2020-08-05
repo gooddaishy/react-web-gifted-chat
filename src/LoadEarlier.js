@@ -9,7 +9,7 @@ import {
   TouchableOpacity,
   View,
   ViewPropTypes,
-} from 'react-native';
+} from 'react-native-web';
 import Color from './Color';
 
 export default class LoadEarlier extends React.Component {

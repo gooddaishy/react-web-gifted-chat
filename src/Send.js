@@ -2,7 +2,7 @@
 
 import PropTypes from 'prop-types';
 import React from 'react';
-import { StyleSheet, Text, View, ViewPropTypes } from 'react-native';
+import { StyleSheet, Text, View, ViewPropTypes } from 'react-native-web';
 import Color from './Color';
 import TouchableOpacity from './TouchableOpacity';
 

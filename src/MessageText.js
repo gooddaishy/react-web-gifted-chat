@@ -7,7 +7,7 @@ import {
   Text,
   View,
   ViewPropTypes,
-} from 'react-native';
+} from 'react-native-web';
 import ParsedText from './ParsedText';
 
 const WWW_URL_PATTERN = /^www\./i;

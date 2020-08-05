@@ -19,7 +19,7 @@ export default {
   external: [
     ...external,
     'prop-types',
-    'react-native',
+    'react-native-web',
     'moment/min/moment-with-locales.min',
   ],
   plugins: [

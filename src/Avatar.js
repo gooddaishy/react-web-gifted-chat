@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import { StyleSheet, View, ViewPropTypes } from 'react-native';
+import { StyleSheet, View, ViewPropTypes } from 'react-native-web';
 import GiftedAvatar from './GiftedAvatar';
 import { isSameUser, isSameDay } from './utils';
 

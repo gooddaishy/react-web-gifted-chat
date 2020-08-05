@@ -3,7 +3,7 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 
-import { Text, Clipboard, StyleSheet, View, ViewPropTypes } from 'react-native';
+import { Text, Clipboard, StyleSheet, View, ViewPropTypes } from 'react-native-web';
 
 
 import MessageText from './MessageText';

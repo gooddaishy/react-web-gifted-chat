@@ -2,7 +2,7 @@
 
 import PropTypes from 'prop-types';
 import React from 'react';
-import { View, ViewPropTypes, StyleSheet } from 'react-native';
+import { View, ViewPropTypes, StyleSheet } from 'react-native-web';
 
 import Avatar from './Avatar';
 import Bubble from './Bubble';

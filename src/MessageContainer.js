@@ -10,7 +10,7 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 
-import { FlatList, View, StyleSheet, Keyboard, Text } from 'react-native';
+import { FlatList, View, StyleSheet, Keyboard, Text } from 'react-native-web';
 
 import LoadEarlier from './LoadEarlier';
 import Message from './Message';

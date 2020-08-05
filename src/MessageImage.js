@@ -8,7 +8,7 @@ import {
   View,
   ViewPropTypes,
   Dimensions,
-} from 'react-native';
+} from 'react-native-web';
 import Lightbox from 'react-image-lightbox';
 import 'react-image-lightbox/style.css';
 import TouchableOpacity from './TouchableOpacity';

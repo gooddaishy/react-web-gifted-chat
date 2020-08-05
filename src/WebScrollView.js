@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 
-import { FlatList, View, StyleSheet, Keyboard, TouchableOpacity, Text } from 'react-native';
+import { FlatList, View, StyleSheet, Keyboard, TouchableOpacity, Text } from 'react-native-web';
 
 export default class WebScrollView extends Component {
   renderItem =(item, index) => {

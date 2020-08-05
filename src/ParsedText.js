@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactNative from 'react-native';
+import ReactNative from 'react-native-web';
 import PropTypes from 'prop-types';
 
 import TextExtraction from './TextExtraction';
