@@ -8,7 +8,7 @@
 
 import PropTypes from 'prop-types';
 import React from 'react';
-import { Animated, StyleSheet, View } from 'react-native';
+import { Animated, StyleSheet, View } from 'react-native-web';
 
 import moment from 'moment';
 import uuid from 'uuid';
